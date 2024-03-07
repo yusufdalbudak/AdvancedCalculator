@@ -9,7 +9,7 @@ Extensibility: Code structured to be easily extendable for additional functional
 # Getting Started
 To use the calculator, ensure you have Python 3.12 or newer installed on your machine. Clone this repository, navigate to the project directory, and run the script using:
 
-'''python calculator.py
+'''python calculator.py'''
 
 Follow the on-screen instructions to select an operation and input numbers.
 
